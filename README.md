@@ -2,6 +2,7 @@
 
 # Dataset
 HAM10000 - Human against machines with 10,000 training images
+
 Link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
 
 7 classes:
